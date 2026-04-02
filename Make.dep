@@ -1,0 +1,67 @@
+# Gen Make.dep automatically
+demo_main.c.home.subro2k48.demo.nuttxspace.apps.examples.demo.o: \
+ demo_main.c /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/config.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/stdio.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/sys/types.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/compiler.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/stdint.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/types.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/inttypes.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/limits.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/limits.h \
+ /usr/lib/gcc/arm-none-eabi/14.2.1/include/stdarg.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/time.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/fs/fs.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/fs/ioctl.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/stdbool.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/serial/tioctl.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/fs/uio.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/sys/uio.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/dirent.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/atomic.h \
+ /usr/lib/gcc/arm-none-eabi/14.2.1/include/stdatomic.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/mutex.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/assert.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/semaphore.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/errno.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/semaphore.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/queue.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/clock.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/sys/timex.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/sys/time.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/sys/select.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/signal.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/string.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/stddef.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/alloca.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/lib/math32.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/inttypes.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/strings.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/mm/map.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/mm/gran.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/spawn.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/spawn.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/sched.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/irq.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/irq.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/syscall.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/chip/irq.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/stm32/chip.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/stm32/stm32f10xxx_irq.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/armv7-m/irq.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/armv7-m/nvicpri.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/arch/chip/chip.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/spinlock_type.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/lib/lib.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/kmalloc.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/stdlib.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/mm/mm.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/nuttx/userspace.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/pthread.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/unistd.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/malloc.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/fcntl.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/termios.h \
+ /home/subro2k48/demo/nuttxspace/nuttx/include/sys/ioctl.h
+# No files specified for dependency generation
+# No files specified for dependency generation
